@@ -25,7 +25,7 @@ In this project, we delved into the domain of sampling-based motion planning, im
 ### M5: Path Optimization with RRT
 * Improved the RRT-generated path by removing unnecessary waypoints, ensuring smoother and more efficient motion.
 
-M6: Challenge Your Algorithm
+### M6: Challenge Your Algorithm
 * Concluded the project by watching the algorithms in action on more challenging motion planning problems, exploring possibilities to make them even more robust.
   
 This project showcases proficiency in MATLAB motion planning techniques, offering valuable insights into the complexities and optimizations involved in sampling-based motion planning for robotic systems.
